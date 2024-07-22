@@ -14,7 +14,7 @@ To build and run GoCommand, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/goshell.git
+    git clone https://gitlab.com/saniasiddiqui231/gocommand.git
     ```
 
 2. **Navigate to the Directory**:
