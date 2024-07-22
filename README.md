@@ -25,7 +25,7 @@ To build and run GoCommand, follow these steps:
 
 ## Usage
 
-Once running, the shell will display a `>` prompt. You can enter system commands at the prompt, and the output will be displayed in the terminal. For example:
+Once running, the shell will display a `*` prompt. You can enter system commands at the prompt, and the output will be displayed in the terminal. For example:
 
 ```bash
 * ls
