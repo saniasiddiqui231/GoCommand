@@ -29,3 +29,8 @@ Once running, the shell will display a `*` prompt. You can enter system commands
 
 ```bash
 * ls
+```
+## Reference
+
+https://blog.init-io.net/post/2018/07-01-go-unix-shell/
+
