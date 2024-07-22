@@ -17,25 +17,11 @@ To build and run GoCommand, follow these steps:
     git clone https://gitlab.com/saniasiddiqui231/gocommand.git
     ```
 
-2. **Navigate to the Directory**:
+2. **Run**:
     ```bash
-    cd ShellGo
+    go run main.go
     ```
 
-3. **Build the Application**:
-    ```bash
-    go build -o ShellGo
-    ```
-
-4. **Run the Shell**:
-    ```bash
-    ./ShellGo
-    ```
-
-   On Windows, use:
-    ```bash
-    ShellGo.exe
-    ```
 
 ## Usage
 
