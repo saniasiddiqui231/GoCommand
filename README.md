@@ -1,6 +1,6 @@
-# GoShell
+# GoCommand
 
-GoShell is a simple command-line shell written in Go. It allows users to execute system commands interactively. This shell reads user input, executes commands, and displays output and errors.
+GoCommand is a simple command-line shell written in Go. It allows users to execute system commands interactively. This shell reads user input, executes commands, and displays output and errors.
 
 ## Features
 
