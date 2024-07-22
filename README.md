@@ -5,7 +5,7 @@ GoCommand is a simple command-line shell written in Go. It allows users to execu
 ## Features
 
 - **Command Execution**: Execute system commands and view their output directly from the shell.
-- **Interactive Prompt**: A simple `>` prompt for entering commands.
+- **Interactive Prompt**: A simple `*` prompt for entering commands.
 - **Cross-Platform**: Should work on both Unix-like systems and Windows.
 
 ## Installation
